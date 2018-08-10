@@ -3,4 +3,6 @@ class Table
     @favorite_color
     @live 
     @favorite_food
-    
+  end
+  
+  
