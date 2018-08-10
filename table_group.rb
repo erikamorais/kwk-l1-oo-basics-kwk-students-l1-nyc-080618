@@ -11,5 +11,17 @@ class Table
   
   def favorite_color
     @favorite_color
+  end
+  
+  def live
+    @live 
+  end
+  
+  def favorite_food
+    @favorite_food
+  end
     
-    erika = table.new()
+    erika = table.new("blue","riverdale", "tacos")
+    sandy = table.new("purple", "les", "dessert")
+    rena = table.new("pink", "florida", "pizza")
+    
