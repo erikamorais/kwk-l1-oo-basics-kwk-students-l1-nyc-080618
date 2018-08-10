@@ -1,8 +1,8 @@
 class Table 
   def initialize (color, live, food)
-    @favorite_color
-    @live 
-    @favorite_food
+    @favorite_color = color 
+    @live = live
+    @favorite_food = food
   end
   
   def base_traits
