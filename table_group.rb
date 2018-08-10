@@ -25,3 +25,5 @@ class Table
     sandy = table.new("purple", "les", "dessert")
     rena = table.new("pink", "florida", "pizza")
     
+    erika.base_traits
+    
