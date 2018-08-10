@@ -18,4 +18,4 @@ end
   garfield = Cats.new("ewwww", "yeah... kinda", "well... he kinda hates mondays", "no")
   
   puts garfield.is_it_cute 
-  puts garfield.it_it_fuzzy
+  puts garfield.is_it_fuzzy
