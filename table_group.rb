@@ -1,6 +1,3 @@
 class Table 
-  def initialize 
-    favorite_color 
-    live 
-    favorite_food
+  def initialize (favorite_color, live, favorite_food
     @
