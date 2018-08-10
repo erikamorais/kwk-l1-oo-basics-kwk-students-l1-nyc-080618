@@ -6,7 +6,7 @@ class Table
   end
   
   def base_traits
-    puts "It is human, it is female, it is in New York City. It codes"
+    puts "She is human, she is female, she is in New York City. She codes"
   end 
   
   def favorite_color
