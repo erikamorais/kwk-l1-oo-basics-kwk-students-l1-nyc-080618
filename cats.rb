@@ -23,3 +23,4 @@ end
   
   puts garfield.is_it_cute 
   puts garfield.is_it_fuzzy
+  
