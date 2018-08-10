@@ -11,6 +11,10 @@ class Cats
     @cute
   end 
   
+  def is_it_fuzzy
+    @fuzzy
+  end
+  
 end 
   
   tiger = Cats.new("Oh it's super snazzy", "pretty fuzzy", "super duper mean", "absolutly not")
