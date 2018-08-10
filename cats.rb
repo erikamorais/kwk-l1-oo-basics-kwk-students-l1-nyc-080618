@@ -13,8 +13,9 @@ class Cats
   
 end 
   
-  tiger = Cats.new ("Oh it's super snazzy", "pretty fuzzy", "super duper mean", "absolutly not")
+  tiger = Cats.new("Oh it's super snazzy", "pretty fuzzy", "super duper mean", "absolutly not")
   
-  garfield = Cats.new ("ewwww", "yeah... kinda", "well... he kinda hates mondays", "no")
+  garfield = Cats.new("ewwww", "yeah... kinda", "well... he kinda hates mondays", "no")
   
   puts garfield.is_it_cute 
+ 
