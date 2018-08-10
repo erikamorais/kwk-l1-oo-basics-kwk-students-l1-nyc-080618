@@ -4,6 +4,11 @@ class Cats
     @cute = cute 
     @fuzzy = fuzzy 
     @mean = mean
+    @cuddly = cuddly 
+  end 
+  
+  def is_it_cute
+    @cute
   end 
   
 end 
@@ -12,3 +17,4 @@ end
   
   garfield = Cats.new ("ewwww", "yeah... kinda", "well... he kinda hates mondays", "no")
   
+  puts garfield.is_it_cute 
